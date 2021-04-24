@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.conf_initial": "ini",
+        "*.conf_example": "ini",
+        "bake_server": "shellscript",
+        "module.h": "c",
+        "init.h": "c",
+        "percpu.h": "c"
+    }
+}
